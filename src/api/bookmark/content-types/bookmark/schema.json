@@ -4,7 +4,8 @@
   "info": {
     "singularName": "bookmark",
     "pluralName": "bookmarks",
-    "displayName": "bookmark"
+    "displayName": "bookmark",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "url": {
       "type": "string"
