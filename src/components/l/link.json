@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_l_links",
+  "info": {
+    "displayName": "Link",
+    "icon": "code-branch",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "folder",
+        "link"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}

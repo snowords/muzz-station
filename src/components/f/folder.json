@@ -1,16 +1,11 @@
 {
-  "kind": "collectionType",
-  "collectionName": "bookmarks",
+  "collectionName": "components_f_folders",
   "info": {
-    "singularName": "bookmark",
-    "pluralName": "bookmarks",
-    "displayName": "bookmark",
+    "displayName": "folder",
+    "icon": "folder",
     "description": ""
   },
-  "options": {
-    "draftAndPublish": true
-  },
-  "pluginOptions": {},
+  "options": {},
   "attributes": {
     "type": {
       "type": "enumeration",
@@ -25,7 +20,7 @@
     "items": {
       "type": "component",
       "repeatable": true,
-      "component": "f.folder"
+      "component": "l.link"
     }
   }
 }

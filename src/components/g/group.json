@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_g_groups",
+  "info": {
+    "displayName": "Group",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "l.link"
+    }
+  }
+}

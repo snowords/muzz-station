@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "muzz_bookmarks",
+  "info": {
+    "singularName": "muzz-bookmark",
+    "pluralName": "muzz-bookmarks",
+    "displayName": "muzz-bookmark"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "json"
+    }
+  }
+}
